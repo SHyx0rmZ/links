@@ -6,3 +6,4 @@ This is just a collection of things I think are worth reading or watching.
 * [T.Kouya's Webpage](http://na-inet.jp/index.html)　![japanese](http://flags.shyxormz.net/jp.gif)![english](http://flags.shyxormz.net/us.gif)
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/)　![english](http://flags.shyxormz.net/us.gif)
 * [OpenGL Registry](http://www.opengl.org/registry/) ![english](http://flags.shyxormz.net/us.gif)
+* [Tour de Babel](http://sites.google.com/site/steveyegge2/tour-de-babel) ![english](http://flags.shyxormz.net/us.gif)
