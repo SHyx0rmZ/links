@@ -7,3 +7,4 @@ This is just a collection of things I think are worth reading or watching.
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/)　![english](http://flags.shyxormz.net/us.gif)
 * [OpenGL Registry](http://www.opengl.org/registry/) ![english](http://flags.shyxormz.net/us.gif)
 * [Tour de Babel](http://sites.google.com/site/steveyegge2/tour-de-babel) ![english](http://flags.shyxormz.net/us.gif)
+* [What are good games to “earn your wings” with?](http://gamedev.stackexchange.com/questions/854/what-are-good-games-to-earn-your-wings-with) ![english](http://flags.shyxormz.net/us.gif)
