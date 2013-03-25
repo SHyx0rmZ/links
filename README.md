@@ -27,3 +27,4 @@ Science
 Languages
 ---------
 * [Jim Breen's WWWJDIC](http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi) ![english](http://flags.shyxormz.net/jp.gif)![japanese](http://flags.shyxormz.net/us.gif)
+* [Tae Kim's Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) ![japanese](http://flags.shyxormz.net/jp.gif)![english](http://flags.shyxormz.net/us.gif)
