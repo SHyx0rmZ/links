@@ -5,7 +5,7 @@ Game Dev
 * [What are good games to “earn your wings” with?](http://gamedev.stackexchange.com/questions/854/what-are-good-games-to-earn-your-wings-with) ![english](http://flags.shyxormz.net/us.gif)
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) ![english](http://flags.shyxormz.net/us.gif)
 * [OpenGL Registry](http://www.opengl.org/registry/) ![english](http://flags.shyxormz.net/us.gif)
-
+* [A Path to Game Development](http://web.archive.org/web/20051104034215/http://www.lupinegames.com/articles/path_to_dev.html) ![english](http://flags.shyxormz.net/us.gif)
 
 Programming
 -----------
