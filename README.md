@@ -11,6 +11,7 @@ Programming
 -----------
 * [Tour de Babel](http://sites.google.com/site/steveyegge2/tour-de-babel) ![english](http://flags.shyxormz.net/us.gif)
 * [Pro Git](http://git-scm.com/book) ![brasilian portuguese](http://flags.shyxormz.net/br.gif)![chinese](http://flags.shyxormz.net/cn.gif)![czech](http://flags.shyxormz.net/cz.gif)![german](http://flags.shyxormz.net/de.gif)![french](http://flags.shyxormz.net/fr.gif)![japanese](http://flags.shyxormz.net/jp.gif)![korean](http://flags.shyxormz.net/kr.gif)![dutch](http://flags.shyxormz.net/nl.gif)![russian](http://flags.shyxormz.net/ru.gif)![english](http://flags.shyxormz.net/us.gif)
+* [Pipes and Filters](http://blog.petersobot.com/pipes-and-filters)![english](http://flags.shyxormz.net/us.gif)
 
 Mentality
 ---------
