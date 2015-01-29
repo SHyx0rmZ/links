@@ -29,3 +29,4 @@ Languages
 * [Jim Breen's WWWJDIC](http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi) ![english](http://flags.shyxormz.net/jp.gif)![japanese](http://flags.shyxormz.net/us.gif)
 * [Tae Kim's Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) ![japanese](http://flags.shyxormz.net/jp.gif)![english](http://flags.shyxormz.net/us.gif)
 * [Tangorin Japanese Dictionary](http://tangorin.com/) ![japanese](http://flags.shyxormz.net/jp.gif)![english](http://flags.shyxormz.net/us.gif)
+* [NEWS WEB EASY](http://www3.nhk.or.jp/news/easy/index.html)![japanese](http://flags.shyxormz.net/jp.gif)
